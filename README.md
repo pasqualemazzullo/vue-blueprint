@@ -12,11 +12,11 @@
 ## Clone this repository using the web URL
 
 ```sh
-https://github.com/pasqualemazzullo/vueprint.git
+git clone https://github.com/pasqualemazzullo/vueprint.git && rm -rf vueprint/.git
 ```
 
 ## Clone this repository using GitHub CLI
 
 ```sh
-gh repo clone pasqualemazzullo/vueprint
+gh repo clone pasqualemazzullo/vueprint && rm -rf vueprint/.git
 ```
